@@ -12,7 +12,7 @@ Secure Chat Service Based On Tox Core
 <b>About :</b>
 <br>The LService is a simplified chat system service using ToxCore library for secure communications 
 and can be used by other applications via intercoms or any other internal or external coms way,
-that`s why it doesn`t have a user interface.
+that's why it doesn't have a user interface.
 It can be used as a wrapper of ToxCore library for the very and most basic functions for 
 a secure chat system in windows operating systems by any application.
 It is running stable in windows systems and is hidden but visible through the system processes.
