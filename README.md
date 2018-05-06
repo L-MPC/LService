@@ -2,6 +2,7 @@
 Secure Chat Service Based On Tox Core
 
 How to Build :
+
 ->Open SampleService.sln
 ->Change build to the Release Version instead of Debug
 ->Build SampleService.sln
